@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry excluding="similarities/" kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/commons-math-2.2.jar"/>
-	<classpathentry kind="lib" path="lib/EdJoinPlus.jar"/>
+	<classpathentry kind="lib" path="lib/EdJoinPlus.jara"/>
 	<classpathentry kind="lib" path="lib/jmatharray.jar"/>
 	<classpathentry kind="lib" path="lib/libsvm.jar"/>
 	<classpathentry kind="lib" path="lib/lingpipe-4.1.0.jar"/>
